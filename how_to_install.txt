@@ -1,16 +1,16 @@
 This script only for windows! and make sure you have installed :
-	- Python 2.7 (https://www.python.org/download/releases/2.7/)
-	- Java SE Development Kit (https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- Python 2.7 (https://www.python.org/download/releases/2.7/)
+- Java SE Development Kit (https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 Here how to install :
-	 - open CMD in this folder,
+- open CMD in this folder,
 		(shift + right click > open command window here).
-	 - type "install_fullwin.bat".
-	 - wait until installation complete and close CMD!
+- type "install_fullwin.bat".
+- wait until installation complete and close CMD!
 
-	 - then install binwalk.
-	 - open CMD again in folder "C:\Fulwin\app\other\binwalk".
-	 - type	"python setup.py install".
-	 - wait until installation complete.
+- then install binwalk.
+- open CMD again in folder "C:\Fulwin\app\other\binwalk".
+- type	"python setup.py install".
+- wait until installation complete.
 	 
 Now you can use it! (type "fulwin" in CMD).
